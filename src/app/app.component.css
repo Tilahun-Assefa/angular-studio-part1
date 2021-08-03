@@ -1,4 +1,9 @@
 .box{
     display: flex;
     padding: 10px;
+    border: 5px outset red ;
+    border-block-width: 20px;
+    width: 500px;
+    background-color: antiquewhite;
 }
+
